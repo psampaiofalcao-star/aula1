@@ -11,7 +11,7 @@ public class exercicio3 {
 
         double valorConvertido = valorReais / cotacaoDolar;
 
-        System.out.printf("Valor convertido: US$ %.2f%n", valorConvertido);
+        System.out.printf("Valor convertido:: US$ %.2f%n", valorConvertido);
 
 
     }
